@@ -1,6 +1,9 @@
 # UpworkIncomeSorter
 Utility script for sorting Upwork jobs/income for quarterly/annual tax purposes from inputted 'transactions' CSV
 
+## Internals
+This script iterates through each 'Transaction' record and classifies each record as either an 'income', 'cost', or 'withdrawal' event determined by that record's 'type'.  Then the pandas package is used to sort each of these categories further into quarterly summarizations to show both gross and net amounts as well as withdrawal amounts.
+
 ## Setup
 
 ### Dependencies
@@ -24,7 +27,4 @@ Then run ```python upwork_sorter.py```.
 You should then get an income summary printout for the configured tax year like this...
 
 <img src="./images/income_summary.png">
-
-## Internals
-This script iterates through each 'Transaction' record and classifies each record as either an 'income', 'cost', or 'withdrawal' event determined by that record's 'type'.  Then the pandas package is used to sort each of these categories further into quarterly summarizations to show both gross and net amounts as well as withdrawal amounts.
 
