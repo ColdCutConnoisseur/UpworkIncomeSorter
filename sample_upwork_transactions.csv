@@ -1,0 +1,298 @@
+Date,Ref ID,Type,Description,Agency,Freelancer,Team,Account Name,PO,Amount,Amount in local currency,Currency,Balance
+"Dec 15, 2023",133894894,Fixed Price,Sample Description,,Rickie F.,Client #1,Rickie F.,,1328,,,1988
+"Aug 10, 2023",737508300,Fixed Price,Sample Description,,Rickie F.,Client #2,Rickie F.,,625,,,660
+"Jun 21, 2023",129056142,Service Fee,Sample Description,,Rickie F.,Client #3,Rickie F.,,-28,,,35
+"Jun 21, 2023",792018220,Hourly,Sample Description,,Rickie F.,Client #4,Rickie F.,,1841,,,63
+"Jun 14, 2023",891913858,Service Fee,Sample Description,,Rickie F.,Client #5,Rickie F.,,-1553,,,-1778
+"Jun 14, 2023",295499039,Hourly,Sample Description,,Rickie F.,Client #6,Rickie F.,,721,,,-225
+"Jun 10, 2023",494250144,Service Fee,Sample Description,,Rickie F.,Client #7,Rickie F.,,-1303,,,-946
+"Jun 10, 2023",975124308,Fixed Price,Sample Description,,Rickie F.,Client #8,Rickie F.,,1224,,,357
+"Jun 9, 2023",164995754,Service Fee,Sample Description,,Rickie F.,Client #9,Rickie F.,,-1474,,,-867
+"Jun 9, 2023",100679411,Fixed Price,Sample Description,,Rickie F.,Client #10,Rickie F.,,1081,,,607
+"Jun 7, 2023",824171050,Service Fee,Sample Description,,Rickie F.,Client #11,Rickie F.,,-538,,,-474
+"Jun 7, 2023",488952626,Hourly,Sample Description,,Rickie F.,Client #12,Rickie F.,,1034,,,64
+"Jun 6, 2023",800583603,Service Fee,Sample Description,,Rickie F.,Client #13,Rickie F.,,-552,,,-970
+"Jun 6, 2023",645294560,Fixed Price,Sample Description,,Rickie F.,Client #14,Rickie F.,,109,,,-418
+"May 31, 2023",739300955,Service Fee,Sample Description,,Rickie F.,Client #15,Rickie F.,,-1617,,,-527
+"May 31, 2023",555110804,Hourly,Sample Description,,Rickie F.,Client #16,Rickie F.,,1273,,,1090
+"May 17, 2023",641343446,Service Fee,Sample Description,,Rickie F.,Client #17,Rickie F.,,-1034,,,-183
+"May 17, 2023",970558555,Hourly,Sample Description,,Rickie F.,Client #18,Rickie F.,,1232,,,851
+"May 17, 2023",183120741,Service Fee,Sample Description,,Rickie F.,Client #19,Rickie F.,,-974,,,-381
+"May 17, 2023",368297714,Hourly,Sample Description,,Rickie F.,Client #20,Rickie F.,,1315,,,593
+"May 15, 2023",567196813,Service Fee,Sample Description,,Rickie F.,Client #21,Rickie F.,,-24,,,-722
+"May 15, 2023",261422895,Fixed Price,Sample Description,,Rickie F.,Client #22,Rickie F.,,327,,,-698
+"May 12, 2023",521591505,Membership Fee,Sample Description,,Rickie F.,Client #23,Rickie F.,,-1324,,,-1025
+"May 10, 2023",317137519,Withdrawal,Sample Description,,Rickie F.,Client #24,Rickie F.,,-324,,,299
+"May 10, 2023",781567045,Service Fee,Sample Description,,Rickie F.,Client #25,Rickie F.,,-374,,,623
+"May 10, 2023",242668747,Hourly,Sample Description,,Rickie F.,Client #26,Rickie F.,,1511,,,997
+"May 10, 2023",749220564,Service Fee,Sample Description,,Rickie F.,Client #27,Rickie F.,,-772,,,-514
+"May 10, 2023",523859080,Hourly,Sample Description,,Rickie F.,Client #28,Rickie F.,,1205,,,258
+"Apr 26, 2023",336613077,Service Fee,Sample Description,,Rickie F.,Client #29,Rickie F.,,-1334,,,-947
+"Apr 26, 2023",935518454,Hourly,Sample Description,,Rickie F.,Client #30,Rickie F.,,1958,,,387
+"Apr 19, 2023",710000552,Service Fee,Sample Description,,Rickie F.,Client #31,Rickie F.,,-1654,,,-1571
+"Apr 19, 2023",243181036,Hourly,Sample Description,,Rickie F.,Client #32,Rickie F.,,144,,,83
+"Apr 5, 2023",394702710,Service Fee,Sample Description,,Rickie F.,Client #33,Rickie F.,,-563,,,-61
+"Apr 5, 2023",213523093,Fixed Price,Sample Description,,Rickie F.,Client #34,Rickie F.,,1030,,,502
+"Apr 5, 2023",770948860,Service Fee,Sample Description,,Rickie F.,Client #35,Rickie F.,,-40,,,-528
+"Apr 5, 2023",858597283,Hourly,Sample Description,,Rickie F.,Client #36,Rickie F.,,106,,,-488
+"Apr 5, 2023",507349410,Service Fee,Sample Description,,Rickie F.,Client #37,Rickie F.,,-1039,,,-594
+"Apr 5, 2023",997144808,Hourly,Sample Description,,Rickie F.,Client #38,Rickie F.,,462,,,445
+"Apr 5, 2023",204348396,Service Fee,Sample Description,,Rickie F.,Client #39,Rickie F.,,-1681,,,-17
+"Apr 5, 2023",508667761,Hourly,Sample Description,,Rickie F.,Client #40,Rickie F.,,414,,,1664
+"Mar 30, 2023",563913850,Service Fee,Sample Description,,Rickie F.,Client #41,Rickie F.,,-669,,,1250
+"Mar 30, 2023",271486077,Fixed Price,Sample Description,,Rickie F.,Client #42,Rickie F.,,1886,,,1919
+"Mar 29, 2023",422485160,Service Fee,Sample Description,,Rickie F.,Client #43,Rickie F.,,-1028,,,33
+"Mar 29, 2023",326153751,Hourly,Sample Description,,Rickie F.,Client #44,Rickie F.,,1907,,,1061
+"Mar 29, 2023",620797341,Service Fee,Sample Description,,Rickie F.,Client #45,Rickie F.,,-855,,,-846
+"Mar 29, 2023",404804514,Hourly,Sample Description,,Rickie F.,Client #46,Rickie F.,,1179,,,9
+"Mar 26, 2023",478343646,Service Fee,Sample Description,,Rickie F.,Client #47,Rickie F.,,-222,,,-1170
+"Mar 26, 2023",882317035,Bonus,Sample Description,,Rickie F.,Client #48,Rickie F.,,467,,,-948
+"Mar 25, 2023",295336380,Service Fee,Sample Description,,Rickie F.,Client #49,Rickie F.,,-650,,,-1415
+"Mar 25, 2023",395423445,Fixed Price,Sample Description,,Rickie F.,Client #50,Rickie F.,,1610,,,-765
+"Mar 15, 2023",377469941,Withdrawal,Sample Description,,Rickie F.,Client #51,Rickie F.,,-396,,,-2375
+"Mar 15, 2023",369964838,Service Fee,Sample Description,,Rickie F.,Client #52,Rickie F.,,-184,,,-1979
+"Mar 15, 2023",686426565,Hourly,Sample Description,,Rickie F.,Client #53,Rickie F.,,1292,,,-1795
+"Mar 15, 2023",236499114,Service Fee,Sample Description,,Rickie F.,Client #54,Rickie F.,,-1767,,,-3087
+"Mar 15, 2023",826018195,Hourly,Sample Description,,Rickie F.,Client #55,Rickie F.,,1636,,,-1320
+"Mar 15, 2023",816705343,Service Fee,Sample Description,,Rickie F.,Client #56,Rickie F.,,-1772,,,-2956
+"Mar 15, 2023",238727754,Hourly,Sample Description,,Rickie F.,Client #57,Rickie F.,,566,,,-1184
+"Mar 14, 2023",209170095,Service Fee,Sample Description,,Rickie F.,Client #58,Rickie F.,,-657,,,-1750
+"Mar 14, 2023",308589690,Fixed Price,Sample Description,,Rickie F.,Client #59,Rickie F.,,1452,,,-1093
+"Mar 8, 2023",493623824,Service Fee,Sample Description,,Rickie F.,Client #60,Rickie F.,,-1548,,,-2545
+"Mar 8, 2023",339923424,Hourly,Sample Description,,Rickie F.,Client #61,Rickie F.,,54,,,-997
+"Mar 8, 2023",213405279,Service Fee,Sample Description,,Rickie F.,Client #62,Rickie F.,,-1169,,,-1051
+"Mar 8, 2023",829713497,Hourly,Sample Description,,Rickie F.,Client #63,Rickie F.,,1522,,,118
+"Feb 28, 2023",168029596,Service Fee,Sample Description,,Rickie F.,Client #64,Rickie F.,,-278,,,-1404
+"Feb 28, 2023",914303690,Fixed Price,Sample Description,,Rickie F.,Client #65,Rickie F.,,1575,,,-1126
+"Feb 28, 2023",557359487,Service Fee,Sample Description,,Rickie F.,Client #66,Rickie F.,,-1282,,,-2701
+"Feb 28, 2023",960010165,Fixed Price,Sample Description,,Rickie F.,Client #67,Rickie F.,,441,,,-1419
+"Feb 27, 2023",768330407,Service Fee,Sample Description,,Rickie F.,Client #68,Rickie F.,,-1055,,,-1860
+"Feb 27, 2023",980585842,Fixed Price,Sample Description,,Rickie F.,Client #69,Rickie F.,,471,,,-805
+"Feb 22, 2023",180479625,Service Fee,Sample Description,,Rickie F.,Client #70,Rickie F.,,-1027,,,-1276
+"Feb 22, 2023",908841790,Hourly,Sample Description,,Rickie F.,Client #71,Rickie F.,,1151,,,-249
+"Feb 15, 2023",765842572,Service Fee,Sample Description,,Rickie F.,Client #72,Rickie F.,,-396,,,-1400
+"Feb 15, 2023",395049133,Hourly,Sample Description,,Rickie F.,Client #73,Rickie F.,,751,,,-1004
+"Feb 15, 2023",497086295,Service Fee,Sample Description,,Rickie F.,Client #74,Rickie F.,,-278,,,-1755
+"Feb 15, 2023",803257327,Hourly,Sample Description,,Rickie F.,Client #75,Rickie F.,,1921,,,-1477
+"Feb 14, 2023",776609099,Service Fee,Sample Description,,Rickie F.,Client #76,Rickie F.,,-835,,,-3398
+"Feb 14, 2023",717662643,Fixed Price,Sample Description,,Rickie F.,Client #77,Rickie F.,,1144,,,-2563
+"Feb 9, 2023",908191400,Service Fee,Sample Description,,Rickie F.,Client #78,Rickie F.,,-1036,,,-3707
+"Feb 9, 2023",121882995,Fixed Price,Sample Description,,Rickie F.,Client #79,Rickie F.,,1734,,,-2671
+"Feb 8, 2023",940948673,Service Fee,Sample Description,,Rickie F.,Client #80,Rickie F.,,-127,,,-4405
+"Feb 8, 2023",634102737,Hourly,Sample Description,,Rickie F.,Client #81,Rickie F.,,314,,,-4278
+"Feb 1, 2023",835777752,Service Fee,Sample Description,,Rickie F.,Client #82,Rickie F.,,-214,,,-4592
+"Feb 1, 2023",864964025,Hourly,Sample Description,,Rickie F.,Client #83,Rickie F.,,608,,,-4378
+"Jan 25, 2023",486007022,Service Fee,Sample Description,,Rickie F.,Client #84,Rickie F.,,-471,,,-4986
+"Jan 25, 2023",693175133,Fixed Price,Sample Description,,Rickie F.,Client #85,Rickie F.,,236,,,-4515
+"Jan 22, 2023",429879692,Service Fee,Sample Description,,Rickie F.,Client #86,Rickie F.,,-299,,,-4751
+"Jan 22, 2023",393928697,Fixed Price,Sample Description,,Rickie F.,Client #87,Rickie F.,,1927,,,-4452
+"Jan 21, 2023",799431712,Service Fee,Sample Description,,Rickie F.,Client #88,Rickie F.,,-1655,,,-6379
+"Jan 21, 2023",577835271,Fixed Price,Sample Description,,Rickie F.,Client #89,Rickie F.,,1481,,,-4724
+"Jan 18, 2023",869900646,Withdrawal,Sample Description,,Rickie F.,Client #90,Rickie F.,,-345,,,-6205
+"Jan 18, 2023",583516544,Service Fee,Sample Description,,Rickie F.,Client #91,Rickie F.,,-287,,,-5860
+"Jan 18, 2023",128037857,Fixed Price,Sample Description,,Rickie F.,Client #92,Rickie F.,,1018,,,-5573
+"Jan 18, 2023",723806586,Service Fee,Sample Description,,Rickie F.,Client #93,Rickie F.,,-500,,,-6591
+"Jan 18, 2023",557425082,Hourly,Sample Description,,Rickie F.,Client #94,Rickie F.,,447,,,-6091
+"Jan 14, 2023",531965510,Service Fee,Sample Description,,Rickie F.,Client #95,Rickie F.,,-1394,,,-6538
+"Jan 14, 2023",311335455,Fixed Price,Sample Description,,Rickie F.,Client #96,Rickie F.,,732,,,-5144
+"Jan 4, 2023",705164775,Withdrawal,Sample Description,,Rickie F.,Client #97,Rickie F.,,-178,,,-5876
+"Jan 3, 2023",310833001,Service Fee,Sample Description,,Rickie F.,Client #98,Rickie F.,,-775,,,-5698
+"Jan 3, 2023",786396772,Fixed Price,Sample Description,,Rickie F.,Client #99,Rickie F.,,616,,,-4923
+"Jan 2, 2023",988199651,Service Fee,Sample Description,,Rickie F.,Client #100,Rickie F.,,-522,,,-5539
+"Jan 2, 2023",345678040,Fixed Price,Sample Description,,Rickie F.,Client #101,Rickie F.,,13,,,-5017
+"Jan 1, 2023",185805188,Service Fee,Sample Description,,Rickie F.,Client #102,Rickie F.,,-1119,,,-5030
+"Jan 1, 2023",301642218,Fixed Price,Sample Description,,Rickie F.,Client #103,Rickie F.,,1024,,,-3911
+"Dec 25, 2022",612740335,Service Fee,Sample Description,,Rickie F.,Client #104,Rickie F.,,-1338,,,-4935
+"Dec 25, 2022",309327799,Fixed Price,Sample Description,,Rickie F.,Client #105,Rickie F.,,1509,,,-3597
+"Dec 22, 2022",573643241,Service Fee,Sample Description,,Rickie F.,Client #106,Rickie F.,,-191,,,-5106
+"Dec 22, 2022",718558332,Bonus,Sample Description,,Rickie F.,Client #107,Rickie F.,,1087,,,-4915
+"Dec 22, 2022",100836812,Service Fee,Sample Description,,Rickie F.,Client #108,Rickie F.,,-1967,,,-6002
+"Dec 22, 2022",879222217,Fixed Price,Sample Description,,Rickie F.,Client #109,Rickie F.,,450,,,-4035
+"Dec 15, 2022",570618485,Service Fee,Sample Description,,Rickie F.,Client #110,Rickie F.,,-1202,,,-4485
+"Dec 15, 2022",725175128,Fixed Price,Sample Description,,Rickie F.,Client #111,Rickie F.,,462,,,-3283
+"Dec 14, 2022",534926083,Withdrawal,Sample Description,,Rickie F.,Client #112,Rickie F.,,-541,,,-3745
+"Dec 14, 2022",811045723,Service Fee,Sample Description,,Rickie F.,Client #113,Rickie F.,,-390,,,-3204
+"Dec 14, 2022",804143090,Fixed Price,Sample Description,,Rickie F.,Client #114,Rickie F.,,1843,,,-2814
+"Dec 14, 2022",727593266,Service Fee,Sample Description,,Rickie F.,Client #115,Rickie F.,,-1068,,,-4657
+"Dec 14, 2022",392250159,Fixed Price,Sample Description,,Rickie F.,Client #116,Rickie F.,,1702,,,-3589
+"Dec 14, 2022",804737683,Service Fee,Sample Description,,Rickie F.,Client #117,Rickie F.,,-214,,,-5291
+"Dec 14, 2022",657882768,Fixed Price,Sample Description,,Rickie F.,Client #118,Rickie F.,,724,,,-5077
+"Dec 14, 2022",410321028,Service Fee,Sample Description,,Rickie F.,Client #119,Rickie F.,,-109,,,-5801
+"Dec 14, 2022",388216271,Fixed Price,Sample Description,,Rickie F.,Client #120,Rickie F.,,317,,,-5692
+"Dec 14, 2022",912273872,Service Fee,Sample Description,,Rickie F.,Client #121,Rickie F.,,-334,,,-6009
+"Dec 14, 2022",286198264,Hourly,Sample Description,,Rickie F.,Client #122,Rickie F.,,1015,,,-5675
+"Dec 14, 2022",526944734,Service Fee,Sample Description,,Rickie F.,Client #123,Rickie F.,,-367,,,-6690
+"Dec 14, 2022",537418805,Hourly,Sample Description,,Rickie F.,Client #124,Rickie F.,,481,,,-6323
+"Dec 14, 2022",960856681,Service Fee,Sample Description,,Rickie F.,Client #125,Rickie F.,,-972,,,-6804
+"Dec 14, 2022",901740443,Bonus,Sample Description,,Rickie F.,Client #126,Rickie F.,,479,,,-5832
+"Dec 10, 2022",568950671,Service Fee,Sample Description,,Rickie F.,Client #127,Rickie F.,,-56,,,-6311
+"Dec 10, 2022",821675446,Fixed Price,Sample Description,,Rickie F.,Client #128,Rickie F.,,1165,,,-6255
+"Dec 8, 2022",367307034,Service Fee,Sample Description,,Rickie F.,Client #129,Rickie F.,,-1509,,,-7420
+"Dec 8, 2022",107267445,Fixed Price,Sample Description,,Rickie F.,Client #130,Rickie F.,,331,,,-5911
+"Dec 7, 2022",744915055,Service Fee,Sample Description,,Rickie F.,Client #131,Rickie F.,,-1040,,,-6242
+"Dec 7, 2022",810607714,Fixed Price,Sample Description,,Rickie F.,Client #132,Rickie F.,,1569,,,-5202
+"Dec 7, 2022",603700629,Service Fee,Sample Description,,Rickie F.,Client #133,Rickie F.,,-1707,,,-6771
+"Dec 7, 2022",772089470,Fixed Price,Sample Description,,Rickie F.,Client #134,Rickie F.,,940,,,-5064
+"Dec 7, 2022",318119225,Service Fee,Sample Description,,Rickie F.,Client #135,Rickie F.,,-1085,,,-6004
+"Dec 7, 2022",964972959,Fixed Price,Sample Description,,Rickie F.,Client #136,Rickie F.,,1967,,,-4919
+"Dec 4, 2022",506540674,Service Fee,Sample Description,,Rickie F.,Client #137,Rickie F.,,-783,,,-6886
+"Dec 4, 2022",617872881,Fixed Price,Sample Description,,Rickie F.,Client #138,Rickie F.,,1921,,,-6103
+"Nov 30, 2022",962130219,Service Fee,Sample Description,,Rickie F.,Client #139,Rickie F.,,-1212,,,-8024
+"Nov 30, 2022",665447244,Hourly,Sample Description,,Rickie F.,Client #140,Rickie F.,,944,,,-6812
+"Nov 28, 2022",827787869,Service Fee,Sample Description,,Rickie F.,Client #141,Rickie F.,,-921,,,-7756
+"Nov 28, 2022",509246022,Fixed Price,Sample Description,,Rickie F.,Client #142,Rickie F.,,1636,,,-6835
+"Nov 23, 2022",897570558,Withdrawal,Sample Description,,Rickie F.,Client #143,Rickie F.,,-1553,,,-8471
+"Nov 23, 2022",244980481,Service Fee,Sample Description,,Rickie F.,Client #144,Rickie F.,,-501,,,-6918
+"Nov 23, 2022",321385397,Fixed Price,Sample Description,,Rickie F.,Client #145,Rickie F.,,1413,,,-6417
+"Nov 2, 2022",395641639,Withdrawal,Sample Description,,Rickie F.,Client #146,Rickie F.,,-1803,,,-7830
+"Nov 2, 2022",912708862,Service Fee,Sample Description,,Rickie F.,Client #147,Rickie F.,,-855,,,-6027
+"Nov 2, 2022",547820187,Hourly,Sample Description,,Rickie F.,Client #148,Rickie F.,,1582,,,-5172
+"Nov 2, 2022",901940970,Service Fee,Sample Description,,Rickie F.,Client #149,Rickie F.,,-1632,,,-6754
+"Nov 2, 2022",123485026,Hourly,Sample Description,,Rickie F.,Client #150,Rickie F.,,404,,,-5122
+"Oct 31, 2022",689028281,Service Fee,Sample Description,,Rickie F.,Client #151,Rickie F.,,-1441,,,-5526
+"Oct 31, 2022",643990244,Fixed Price,Sample Description,,Rickie F.,Client #152,Rickie F.,,562,,,-4085
+"Oct 18, 2022",636991277,Service Fee,Sample Description,,Rickie F.,Client #153,Rickie F.,,-631,,,-4647
+"Oct 18, 2022",718800765,Fixed Price,Sample Description,,Rickie F.,Client #154,Rickie F.,,1358,,,-4016
+"Oct 2, 2022",708890723,Service Fee,Sample Description,,Rickie F.,Client #155,Rickie F.,,-198,,,-5374
+"Oct 2, 2022",513119291,Fixed Price,Sample Description,,Rickie F.,Client #156,Rickie F.,,1021,,,-5176
+"Sep 27, 2022",247359870,Service Fee,Sample Description,,Rickie F.,Client #157,Rickie F.,,-1197,,,-6197
+"Sep 27, 2022",406033663,Fixed Price,Sample Description,,Rickie F.,Client #158,Rickie F.,,615,,,-5000
+"Sep 24, 2022",140893467,Service Fee,Sample Description,,Rickie F.,Client #159,Rickie F.,,-1034,,,-5615
+"Sep 24, 2022",666764870,Miscellaneous,Sample Description,,Rickie F.,Client #160,Rickie F.,,947,,,-4581
+"Sep 14, 2022",942726960,Service Fee,Sample Description,,Rickie F.,Client #161,Rickie F.,,-646,,,-5528
+"Sep 14, 2022",247016727,Hourly,Sample Description,,Rickie F.,Client #162,Rickie F.,,1633,,,-4882
+"Sep 8, 2022",631901052,Service Fee,Sample Description,,Rickie F.,Client #163,Rickie F.,,-4,,,-6515
+"Sep 8, 2022",677957873,Bonus,Sample Description,,Rickie F.,Client #164,Rickie F.,,1243,,,-6511
+"Sep 1, 2022",192510919,Service Fee,Sample Description,,Rickie F.,Client #165,Rickie F.,,-548,,,-7754
+"Sep 1, 2022",776486878,Bonus,Sample Description,,Rickie F.,Client #166,Rickie F.,,616,,,-7206
+"Aug 31, 2022",385921613,Withdrawal,Sample Description,,Rickie F.,Client #167,Rickie F.,,-1290,,,-7822
+"Aug 31, 2022",964905162,Service Fee,Sample Description,,Rickie F.,Client #168,Rickie F.,,-1386,,,-6532
+"Aug 31, 2022",326553738,Fixed Price,Sample Description,,Rickie F.,Client #169,Rickie F.,,1255,,,-5146
+"Aug 30, 2022",502613747,Service Fee,Sample Description,,Rickie F.,Client #170,Rickie F.,,-633,,,-6401
+"Aug 30, 2022",103462747,Fixed Price,Sample Description,,Rickie F.,Client #171,Rickie F.,,1036,,,-5768
+"Aug 22, 2022",933930482,Service Fee,Sample Description,,Rickie F.,Client #172,Rickie F.,,-1928,,,-6804
+"Aug 22, 2022",282243289,Fixed Price,Sample Description,,Rickie F.,Client #173,Rickie F.,,51,,,-4876
+"Aug 12, 2022",765190242,Service Fee,Sample Description,,Rickie F.,Client #174,Rickie F.,,-127,,,-4927
+"Aug 12, 2022",771805066,Fixed Price,Sample Description,,Rickie F.,Client #175,Rickie F.,,1165,,,-4800
+"Aug 10, 2022",721801112,Service Fee,Sample Description,,Rickie F.,Client #176,Rickie F.,,121,,,-5965
+"Aug 10, 2022",633896466,Refund,Sample Description,,Rickie F.,Client #177,Rickie F.,,-805,,,-6086
+"Aug 10, 2022",385581356,Service Fee,Sample Description,,Rickie F.,Client #178,Rickie F.,,-472,,,-5281
+"Aug 10, 2022",200816585,Hourly,Sample Description,,Rickie F.,Client #179,Rickie F.,,358,,,-4809
+"Aug 9, 2022",171743924,Service Fee,Sample Description,,Rickie F.,Client #180,Rickie F.,,-949,,,-5167
+"Aug 9, 2022",425510885,Bonus,Sample Description,,Rickie F.,Client #181,Rickie F.,,1094,,,-4218
+"Aug 9, 2022",877911801,Service Fee,Sample Description,,Rickie F.,Client #182,Rickie F.,,-1216,,,-5312
+"Aug 9, 2022",467621815,Fixed Price,Sample Description,,Rickie F.,Client #183,Rickie F.,,896,,,-4096
+"Aug 4, 2022",989385683,Service Fee,Sample Description,,Rickie F.,Client #184,Rickie F.,,-1182,,,-4992
+"Aug 4, 2022",710677006,Fixed Price,Sample Description,,Rickie F.,Client #185,Rickie F.,,1909,,,-3810
+"Aug 3, 2022",430390041,Withdrawal,Sample Description,,Rickie F.,Client #186,Rickie F.,,-774,,,-5719
+"Aug 3, 2022",204901843,Service Fee,Sample Description,,Rickie F.,Client #187,Rickie F.,,1098,,,-4945
+"Aug 3, 2022",123083142,Refund,Sample Description,,Rickie F.,Client #188,Rickie F.,,-1523,,,-6043
+"Aug 3, 2022",873984343,Service Fee,Sample Description,,Rickie F.,Client #189,Rickie F.,,-1916,,,-4520
+"Aug 3, 2022",136120942,Hourly,Sample Description,,Rickie F.,Client #190,Rickie F.,,384,,,-2604
+"Jun 22, 2022",224766837,Service Fee,Sample Description,,Rickie F.,Client #191,Rickie F.,,-25,,,-2988
+"Jun 22, 2022",224286466,Hourly,Sample Description,,Rickie F.,Client #192,Rickie F.,,731,,,-2963
+"Jun 15, 2022",961190571,Service Fee,Sample Description,,Rickie F.,Client #193,Rickie F.,,-1913,,,-3694
+"Jun 15, 2022",663347843,Bonus,Sample Description,,Rickie F.,Client #194,Rickie F.,,1519,,,-1781
+"Jun 14, 2022",112020901,Service Fee,Sample Description,,Rickie F.,Client #195,Rickie F.,,-1805,,,-3300
+"Jun 14, 2022",784989860,Bonus,Sample Description,,Rickie F.,Client #196,Rickie F.,,1453,,,-1495
+"May 25, 2022",366175624,Withdrawal,Sample Description,,Rickie F.,Client #197,Rickie F.,,-933,,,-2948
+"May 18, 2022",872752231,Service Fee,Sample Description,,Rickie F.,Client #198,Rickie F.,,-641,,,-2015
+"May 18, 2022",803786062,Bonus,Sample Description,,Rickie F.,Client #199,Rickie F.,,1818,,,-1374
+"May 6, 2022",318586942,Service Fee,Sample Description,,Rickie F.,Client #200,Rickie F.,,-743,,,-3192
+"May 6, 2022",451961379,Bonus,Sample Description,,Rickie F.,Client #201,Rickie F.,,54,,,-2449
+"May 6, 2022",267348518,Service Fee,Sample Description,,Rickie F.,Client #202,Rickie F.,,-163,,,-2503
+"May 6, 2022",333981485,Bonus,Sample Description,,Rickie F.,Client #203,Rickie F.,,1053,,,-2340
+"May 5, 2022",602979581,Membership Fee,Sample Description,,Rickie F.,Client #204,Rickie F.,,-135,,,-3393
+"Apr 20, 2022",335083089,Service Fee,Sample Description,,Rickie F.,Client #205,Rickie F.,,-907,,,-3258
+"Apr 20, 2022",787532574,Hourly,Sample Description,,Rickie F.,Client #206,Rickie F.,,714,,,-2351
+"Apr 13, 2022",761839669,Service Fee,Sample Description,,Rickie F.,Client #207,Rickie F.,,-1722,,,-3065
+"Apr 13, 2022",932241786,Hourly,Sample Description,,Rickie F.,Client #208,Rickie F.,,64,,,-1343
+"Apr 5, 2022",207325742,Membership Fee,Sample Description,,Rickie F.,Client #209,Rickie F.,,-1108,,,-1407
+"Mar 24, 2022",277733472,Service Fee,Sample Description,,Rickie F.,Client #210,Rickie F.,,-779,,,-299
+"Mar 24, 2022",375870186,Fixed Price,Sample Description,,Rickie F.,Client #211,Rickie F.,,613,,,480
+"Mar 22, 2022",263459915,Service Fee,Sample Description,,Rickie F.,Client #212,Rickie F.,,-619,,,-133
+"Mar 22, 2022",525015195,Bonus,Sample Description,,Rickie F.,Client #213,Rickie F.,,901,,,486
+"Mar 13, 2022",173676252,Service Fee,Sample Description,,Rickie F.,Client #214,Rickie F.,,-1956,,,-415
+"Mar 13, 2022",924623218,Fixed Price,Sample Description,,Rickie F.,Client #215,Rickie F.,,37,,,1541
+"Mar 5, 2022",781865662,Membership Fee,Sample Description,,Rickie F.,Client #216,Rickie F.,,-1220,,,1504
+"Mar 4, 2022",753224389,Service Fee,Sample Description,,Rickie F.,Client #217,Rickie F.,,-1463,,,2724
+"Mar 4, 2022",943159016,Bonus,Sample Description,,Rickie F.,Client #218,Rickie F.,,1958,,,4187
+"Mar 3, 2022",854000210,Service Fee,Sample Description,,Rickie F.,Client #219,Rickie F.,,-1918,,,2229
+"Mar 3, 2022",783255110,Fixed Price,Sample Description,,Rickie F.,Client #220,Rickie F.,,867,,,4147
+"Feb 27, 2022",120611288,Service Fee,Sample Description,,Rickie F.,Client #221,Rickie F.,,-294,,,3280
+"Feb 27, 2022",510232061,Bonus,Sample Description,,Rickie F.,Client #222,Rickie F.,,1747,,,3574
+"Feb 23, 2022",332032155,Service Fee,Sample Description,,Rickie F.,Client #223,Rickie F.,,509,,,1827
+"Feb 23, 2022",688452610,Refund,Sample Description,,Rickie F.,Client #224,Rickie F.,,-249,,,1318
+"Feb 23, 2022",138990347,Service Fee,Sample Description,,Rickie F.,Client #225,Rickie F.,,1949,,,1567
+"Feb 23, 2022",811999036,Refund,Sample Description,,Rickie F.,Client #226,Rickie F.,,-1005,,,-382
+"Feb 23, 2022",254025458,Service Fee,Sample Description,,Rickie F.,Client #227,Rickie F.,,-201,,,623
+"Feb 23, 2022",124609314,Bonus,Sample Description,,Rickie F.,Client #228,Rickie F.,,955,,,824
+"Feb 23, 2022",292363417,Service Fee,Sample Description,,Rickie F.,Client #229,Rickie F.,,-1973,,,-131
+"Feb 23, 2022",237771026,Fixed Price,Sample Description,,Rickie F.,Client #230,Rickie F.,,1825,,,1842
+"Feb 21, 2022",373506840,Service Fee,Sample Description,,Rickie F.,Client #231,Rickie F.,,-701,,,17
+"Feb 21, 2022",893555507,Fixed Price,Sample Description,,Rickie F.,Client #232,Rickie F.,,332,,,718
+"Feb 18, 2022",491480856,Service Fee,Sample Description,,Rickie F.,Client #233,Rickie F.,,-255,,,386
+"Feb 18, 2022",322330676,Bonus,Sample Description,,Rickie F.,Client #234,Rickie F.,,622,,,641
+"Feb 17, 2022",898410682,Service Fee,Sample Description,,Rickie F.,Client #235,Rickie F.,,-704,,,19
+"Feb 17, 2022",742219827,Fixed Price,Sample Description,,Rickie F.,Client #236,Rickie F.,,368,,,723
+"Feb 16, 2022",647396200,Service Fee,Sample Description,,Rickie F.,Client #237,Rickie F.,,-1598,,,355
+"Feb 16, 2022",198952749,Bonus,Sample Description,,Rickie F.,Client #238,Rickie F.,,1921,,,1953
+"Feb 15, 2022",842501942,Service Fee,Sample Description,,Rickie F.,Client #239,Rickie F.,,-977,,,32
+"Feb 15, 2022",989499022,Fixed Price,Sample Description,,Rickie F.,Client #240,Rickie F.,,1070,,,1009
+"Feb 5, 2022",142357221,Membership Fee,Sample Description,,Rickie F.,Client #241,Rickie F.,,-1173,,,-61
+"Jan 30, 2022",703796747,Service Fee,Sample Description,,Rickie F.,Client #242,Rickie F.,,-1425,,,1112
+"Jan 30, 2022",691057579,Fixed Price,Sample Description,,Rickie F.,Client #243,Rickie F.,,687,,,2537
+"Jan 30, 2022",335887548,Service Fee,Sample Description,,Rickie F.,Client #244,Rickie F.,,-1130,,,1850
+"Jan 30, 2022",651623552,Bonus,Sample Description,,Rickie F.,Client #245,Rickie F.,,769,,,2980
+"Jan 14, 2022",827648752,Service Fee,Sample Description,,Rickie F.,Client #246,Rickie F.,,-146,,,2211
+"Jan 14, 2022",311889658,Bonus,Sample Description,,Rickie F.,Client #247,Rickie F.,,1349,,,2357
+"Jan 5, 2022",372058968,Membership Fee,Sample Description,,Rickie F.,Client #248,Rickie F.,,-1780,,,1008
+"Dec 29, 2021",455570830,Service Fee,Sample Description,,Rickie F.,Client #249,Rickie F.,,-1312,,,2788
+"Dec 29, 2021",756227157,Hourly,Sample Description,,Rickie F.,Client #250,Rickie F.,,1604,,,4100
+"Dec 19, 2021",886543393,Service Fee,Sample Description,,Rickie F.,Client #251,Rickie F.,,-429,,,2496
+"Dec 19, 2021",200739454,Fixed Price,Sample Description,,Rickie F.,Client #252,Rickie F.,,1337,,,2925
+"Dec 16, 2021",694619846,Service Fee,Sample Description,,Rickie F.,Client #253,Rickie F.,,-845,,,1588
+"Dec 16, 2021",803405553,Bonus,Sample Description,,Rickie F.,Client #254,Rickie F.,,1156,,,2433
+"Dec 15, 2021",479636070,Service Fee,Sample Description,,Rickie F.,Client #255,Rickie F.,,-585,,,1277
+"Dec 15, 2021",845529214,Hourly,Sample Description,,Rickie F.,Client #256,Rickie F.,,1764,,,1862
+"Dec 5, 2021",365167199,Membership Fee,Sample Description,,Rickie F.,Client #257,Rickie F.,,-668,,,98
+"Nov 27, 2021",332237522,Service Fee,Sample Description,,Rickie F.,Client #258,Rickie F.,,-555,,,766
+"Nov 27, 2021",370098634,Bonus,Sample Description,,Rickie F.,Client #259,Rickie F.,,787,,,1321
+"Nov 27, 2021",384760826,Service Fee,Sample Description,,Rickie F.,Client #260,Rickie F.,,-1745,,,534
+"Nov 27, 2021",176178611,Fixed Price,Sample Description,,Rickie F.,Client #261,Rickie F.,,1629,,,2279
+"Nov 10, 2021",904303022,Service Fee,Sample Description,,Rickie F.,Client #262,Rickie F.,,-1044,,,650
+"Nov 10, 2021",488482583,Bonus,Sample Description,,Rickie F.,Client #263,Rickie F.,,55,,,1694
+"Nov 5, 2021",281262280,Membership Fee,Sample Description,,Rickie F.,Client #264,Rickie F.,,-180,,,1639
+"Nov 4, 2021",520462635,Service Fee,Sample Description,,Rickie F.,Client #265,Rickie F.,,-506,,,1819
+"Nov 4, 2021",479764654,Bonus,Sample Description,,Rickie F.,Client #266,Rickie F.,,1213,,,2325
+"Nov 3, 2021",779959364,Service Fee,Sample Description,,Rickie F.,Client #267,Rickie F.,,-204,,,1112
+"Nov 3, 2021",273371136,Fixed Price,Sample Description,,Rickie F.,Client #268,Rickie F.,,304,,,1316
+"Oct 31, 2021",621468656,Service Fee,Sample Description,,Rickie F.,Client #269,Rickie F.,,-1933,,,1012
+"Oct 31, 2021",123616177,Fixed Price,Sample Description,,Rickie F.,Client #270,Rickie F.,,1845,,,2945
+"Oct 30, 2021",392023206,Service Fee,Sample Description,,Rickie F.,Client #271,Rickie F.,,-859,,,1100
+"Oct 30, 2021",966442501,Bonus,Sample Description,,Rickie F.,Client #272,Rickie F.,,1535,,,1959
+"Oct 28, 2021",425219517,Service Fee,Sample Description,,Rickie F.,Client #273,Rickie F.,,-1252,,,424
+"Oct 28, 2021",302544439,Bonus,Sample Description,,Rickie F.,Client #274,Rickie F.,,1051,,,1676
+"Oct 17, 2021",244734644,Service Fee,Sample Description,,Rickie F.,Client #275,Rickie F.,,-1579,,,625
+"Oct 17, 2021",373554293,Bonus,Sample Description,,Rickie F.,Client #276,Rickie F.,,195,,,2204
+"Oct 5, 2021",680751193,Membership Fee,Sample Description,,Rickie F.,Client #277,Rickie F.,,-303,,,2009
+"Oct 4, 2021",480937357,Service Fee,Sample Description,,Rickie F.,Client #278,Rickie F.,,-155,,,2312
+"Oct 4, 2021",135516705,Bonus,Sample Description,,Rickie F.,Client #279,Rickie F.,,392,,,2467
+"Sep 28, 2021",871716554,Service Fee,Sample Description,,Rickie F.,Client #280,Rickie F.,,-974,,,2075
+"Sep 28, 2021",651193216,Fixed Price,Sample Description,,Rickie F.,Client #281,Rickie F.,,1577,,,3049
+"Sep 28, 2021",795991721,Service Fee,Sample Description,,Rickie F.,Client #282,Rickie F.,,-614,,,1472
+"Sep 28, 2021",261517685,Bonus,Sample Description,,Rickie F.,Client #283,Rickie F.,,1525,,,2086
+"Sep 19, 2021",426157609,Service Fee,Sample Description,,Rickie F.,Client #284,Rickie F.,,-512,,,561
+"Sep 19, 2021",342007917,Fixed Price,Sample Description,,Rickie F.,Client #285,Rickie F.,,863,,,1073
+"Sep 5, 2021",407809003,Membership Fee,Sample Description,,Rickie F.,Client #286,Rickie F.,,-348,,,210
+"Aug 19, 2021",159540784,Service Fee,Sample Description,,Rickie F.,Client #287,Rickie F.,,-1455,,,558
+"Aug 19, 2021",972010471,Bonus,Sample Description,,Rickie F.,Client #288,Rickie F.,,1140,,,2013
+"Aug 11, 2021",289082675,Service Fee,Sample Description,,Rickie F.,Client #289,Rickie F.,,-904,,,873
+"Aug 11, 2021",444591289,Bonus,Sample Description,,Rickie F.,Client #290,Rickie F.,,1963,,,1777
+"Aug 10, 2021",769061285,Service Fee,Sample Description,,Rickie F.,Client #291,Rickie F.,,-422,,,-186
+"Aug 10, 2021",411265910,Fixed Price,Sample Description,,Rickie F.,Client #292,Rickie F.,,921,,,236
+"Aug 5, 2021",610171788,Membership Fee,Sample Description,,Rickie F.,Client #293,Rickie F.,,-499,,,-685
+"Jul 28, 2021",867958918,Service Fee,Sample Description,,Rickie F.,Client #294,Rickie F.,,-839,,,-186
+"Jul 28, 2021",624482517,Fixed Price,Sample Description,,Rickie F.,Client #295,Rickie F.,,1737,,,653
+"Jun 28, 2021",256737768,Service Fee,Sample Description,,Rickie F.,Client #296,Rickie F.,,-1349,,,-1084
+"Jun 28, 2021",435312425,Fixed Price,Sample Description,,Rickie F.,Client #297,Rickie F.,,265,,,265
