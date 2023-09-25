@@ -25,3 +25,6 @@ You should then get an income summary printout for the configured tax year like 
 
 <img src="./images/income_summary.png">
 
+## Internals
+This script iterates through each 'Transaction' record and classifies each record as either an 'income', 'cost', or 'withdrawal' event determined by that record's 'type'.  Then the pandas package is used to sort each of these categories further into quarterly summarizations to show both gross and net amounts as well as withdrawal amounts.
+
